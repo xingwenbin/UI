@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DataDriven>
+    <url>http://42.159.5.143:3100/private/login/#</url>
+    <divText nameNull ='请输入用户名' passwordNull = '请输入密码'></divText>
+    <titleText article_title ='文章管理' placeholder = '文章标题'></titleText>
+</DataDriven>
